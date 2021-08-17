@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋 I'm Kolawole
+---
 
-<!--
-**koladev32/koladev32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working with Django, React and React Native
+- 🌱 I’m currently learning Laravel & Vuejs
+- 💬 Ask me about Django Rest
+- 📫 How to reach me: [on my website](https://koladev.xyz)
 
-Here are some ideas to get you started:
+### 🏆 GitHub Profile Trophy:
+---
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=koladev32&column=8&theme=radical&no-frame=true&no-bg=true"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📊 GitHub Stats:
+---
+![Kakise github stats](https://github-readme-stats.vercel.app/api?username=koladev32&theme=radical&show_icons=true&count_private=true)
+
+![Kakise Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=koladev32&theme=solarized_dark)
+![Kakise Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=koladev32&theme=solarized_dark)
+![Kakise Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koladev32&theme=solarized_dark)
