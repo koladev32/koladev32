@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with Django, React and React Native
 - 🌱 I’m currently learning Laravel & Vuejs
-- 💬 Ask me about Django Rest
+- 💬 Ask me anything about Django Rest and React 
 - 📫 How to reach me: [on my website](https://koladev.xyz)
 
 ### 🏆 GitHub Profile Trophy:
