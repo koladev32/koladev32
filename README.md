@@ -9,7 +9,11 @@ I’m Kolawole Mangabo, a Software Engineer working with Django and React and a 
 *   🌍  I work remotely.
 *   ✉️  You can contact me at [onaelmangabo@gmail.com](mailto:onaelmangabo@gmail.com)
 *   🧠  I'm learning Observability, NextJS, Software Quality Assurance.
-*   🤝  I'm open to collaborating on Technical blogs or any interesting products.### Skills<p align="left">
+*   🤝  I'm open to collaborating on Technical blogs or any interesting products.
+
+### Skills
+
+<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
                                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -36,25 +40,18 @@ I’m Kolawole Mangabo, a Software Engineer working with Django and React and a 
                                 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
                     </p>
                     
-                  ### Socials
+### Socials
                   
-                  
-                <p align="left">
-                          
-                      <a href="https://www.dev.to/koladev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/koladev32" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://koladev32" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/kolawole-mangabo/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.medium.com/koladev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.stackoverflow.com/users/10787836/kolawôlé-mangabo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/koladev32" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/koladev32"><img src="https://github-readme-stats.vercel.app/api?username=koladev32&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true&show_icons=true" alt="koladev32's GitHub stats" /></a><a
-                      href="http://www.github.com/koladev32"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=koladev32&stroke=000000&background=ffffff&ring=6366f1&fire=6366f1&currStreakNum=000000&currStreakLabel=6366f1&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a><a
-                      href="http://www.github.com/koladev32"><img src="https://activity-graph.herokuapp.com/graph?username=koladev32&bg_color=ffffff&color=000000&line=6366f1&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/koladev32" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koladev32&langs_count=10&title_color=6366f1&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="left"> <a href="https://www.dev.to/koladev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/koladev32" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://koladev32" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kolawole-mangabo/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/koladev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/10787836/kolawôlé-mangabo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/koladev32" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/koladev32"><img src="https://github-readme-stats.vercel.app/api?username=koladev32&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true&show_icons=true" alt="koladev32's GitHub stats" /></a>
+
+<a href="http://www.github.com/koladev32"><img src="https://github-readme-streak-stats.herokuapp.com/?user=koladev32&stroke=000000&background=ffffff&ring=6366f1&fire=6366f1&currStreakNum=000000&currStreakLabel=6366f1&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+
+<a href="http://www.github.com/koladev32"><img src="https://activity-graph.herokuapp.com/graph?username=koladev32&bg_color=ffffff&color=000000&line=6366f1&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/koladev32" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koladev32&langs_count=10&title_color=6366f1&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
