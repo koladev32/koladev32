@@ -8,7 +8,6 @@ I’m Kolawole Mangabo, a Software Engineer working with Django and React and a 
 
 *   🌍  I work remotely.
 *   ✉️  You can contact me at [onaelmangabo@gmail.com](mailto:onaelmangabo@gmail.com)
-*   🧠  I'm learning Observability, NextJS, Software Quality Assurance.
 *   🤝  I'm open to collaborating on Technical blogs or any interesting products.
 
 ### Skills
