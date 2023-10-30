@@ -1,10 +1,10 @@
-Hi 👋 My name is Kolawole Mangabo
+Hi 👋 I am koladev
 =================================
 
 Software Engineer
 -----------------
 
-I’m Kolawole Mangabo, a Software Engineer working with Django and React and a writer who enjoys building great quality products but also enjoys writing. You can find some of my works here and my content here.
+I’m Kolawole, a Software Engineer working with Django and React and a writer who enjoys building great quality products but also enjoys writing. You can find some of my works here and my content here.
 
 *   🌍  I work remotely.
 *   ✉️  You can contact me at [onaelmangabo@gmail.com](mailto:onaelmangabo@gmail.com)
