@@ -7,7 +7,7 @@ Software Engineer
 I’m Kolawole, a Software Engineer working with Django and React and a writer who enjoys building great quality products but also enjoys writing. You can find some of my works here and my content here.
 
 *   🌍  I work remotely.
-*   ✉️  You can contact me at [onaelmangabo@gmail.com](mailto:koladev32@gmail.com)
+*   ✉️  You can contact me at [koladev32@gmail.com](mailto:koladev32@gmail.com)
 *   🤝  I'm open to collaborating on Technical blogs or any interesting products.
 
 ### Skills
