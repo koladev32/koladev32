@@ -4,7 +4,7 @@ Hi 👋 I am koladev
 Software Engineer
 -----------------
 
-*   ✉️  You can contact me at [koladev32@gmail.com](mailto:koladev32@gmail.com)
+✉️  You can contact me at [koladev32@gmail.com](mailto:koladev32@gmail.com)
 
 ### Skills
 
