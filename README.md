@@ -36,4 +36,4 @@ I’m Kolawole, a Software Engineer working with Django and React and a writer w
 
 <a href="http://www.github.com/koladev32"><img src="https://activity-graph.herokuapp.com/graph?username=koladev32&bg_color=ffffff&color=000000&line=6366f1&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/koladev32" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koladev32&langs_count=10&title_color=6366f1&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/koladev32" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koladev32&langs_count=5&title_color=6366f1&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
